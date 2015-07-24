@@ -2,6 +2,6 @@
 	<content><![CDATA[<div class="tabs-striped tabs-color-stable">$0</div>
 ]]></content>
 	<tabTrigger>ionic-tabs-striped-stable</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html,string.quoted.double.heredoc.coffee</scope>
 	<description>Ionic Stable Tabs</description>
 </snippet>

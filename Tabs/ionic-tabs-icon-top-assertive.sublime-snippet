@@ -2,6 +2,6 @@
 	<content><![CDATA[<div class="tabs tabs-icon-top tabs-assertive">$0</div>
 ]]></content>
 	<tabTrigger>ionic-tabs-icon-top-assertive</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html,string.quoted.double.heredoc.coffee</scope>
 	<description>Ionic Assertive Tabs</description>
 </snippet>

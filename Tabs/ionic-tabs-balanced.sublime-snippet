@@ -2,6 +2,6 @@
 	<content><![CDATA[<div class="tabs tabs-balanced">$0</div>
 ]]></content>
 	<tabTrigger>ionic-tabs-balanced</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html,string.quoted.double.heredoc.coffee</scope>
 	<description>Ionic Balanced Tabs</description>
 </snippet>

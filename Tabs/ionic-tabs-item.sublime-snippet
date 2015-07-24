@@ -4,6 +4,6 @@
 </a>
 ]]></content>
 	<tabTrigger>ionic-tabs-item</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html,string.quoted.double.heredoc.coffee</scope>
 	<description>Ionic Tabs Item</description>
 </snippet>

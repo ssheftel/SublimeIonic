@@ -10,6 +10,6 @@
 </li>
 ]]></content>
 	<tabTrigger>ionic-toggle-stable</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html,string.quoted.double.heredoc.coffee</scope>
 	<description>Ionic Stable Toggle</description>
 </snippet>

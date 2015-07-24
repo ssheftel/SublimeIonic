@@ -10,6 +10,6 @@
 </li>
 ]]></content>
 	<tabTrigger>ionic-toggle-energized</tabTrigger>
-	<scope>text.html</scope>
+	<scope>text.html,string.quoted.double.heredoc.coffee</scope>
 	<description>Ionic Energized Toggle</description>
 </snippet>

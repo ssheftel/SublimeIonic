@@ -9,7 +9,7 @@ class ExtensionsCompletions(sublime_plugin.EventListener):
     def on_query_completions(self, view, prefix, locations):
         # Only trigger within HTML
         if not view.match_selector(locations[0],
-                                   "text.html - source"):
+                                   "text.html - source,string.quoted.double.heredoc.coffee"):
             return []
 
         pt = locations[0] - len(prefix) - 1
